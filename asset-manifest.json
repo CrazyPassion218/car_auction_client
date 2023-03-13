@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/static/js/main.c8f38012.chunk.js",
-    "main.js.map": "/static/js/main.c8f38012.chunk.js.map",
+    "main.js": "/static/js/main.6f8e23a2.chunk.js",
+    "main.js.map": "/static/js/main.6f8e23a2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a718c8e5.js",
     "runtime-main.js.map": "/static/js/runtime-main.a718c8e5.js.map",
     "static/css/2.3790a1b8.chunk.css": "/static/css/2.3790a1b8.chunk.css",
@@ -29,6 +29,7 @@
     "static/media/environment.d47307c0.png": "/static/media/environment.d47307c0.png",
     "static/media/fuel.bc07be13.png": "/static/media/fuel.bc07be13.png",
     "static/media/illustration-reset.c5f36c0c.jpg": "/static/media/illustration-reset.c5f36c0c.jpg",
+    "static/media/jaguar.63e8df11.png": "/static/media/jaguar.63e8df11.png",
     "static/media/maintenance.46b57485.png": "/static/media/maintenance.46b57485.png",
     "static/media/mapImage.94305199.JPG": "/static/media/mapImage.94305199.JPG",
     "static/media/mercedes.62c402d7.png": "/static/media/mercedes.62c402d7.png",
@@ -36,7 +37,7 @@
     "static/media/modern4.6536ea4a.jpg": "/static/media/modern4.6536ea4a.jpg",
     "static/media/modern6.37eaf154.jpg": "/static/media/modern6.37eaf154.jpg",
     "static/media/pattern-lines.d6471bac.svg": "/static/media/pattern-lines.d6471bac.svg",
-    "static/media/porsche.6e46874f.png": "/static/media/porsche.6e46874f.png",
+    "static/media/porsche.e1e2ecff.png": "/static/media/porsche.e1e2ecff.png",
     "static/media/shadingImage.648df439.JPG": "/static/media/shadingImage.648df439.JPG",
     "static/media/slider2.612d2422.jpg": "/static/media/slider2.612d2422.jpg",
     "static/media/team-2.13ae2ce3.jpg": "/static/media/team-2.13ae2ce3.jpg",
@@ -47,6 +48,6 @@
     "static/js/runtime-main.a718c8e5.js",
     "static/css/2.3790a1b8.chunk.css",
     "static/js/2.3887d5fc.chunk.js",
-    "static/js/main.c8f38012.chunk.js"
+    "static/js/main.6f8e23a2.chunk.js"
   ]
 }
